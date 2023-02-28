@@ -1,7 +1,7 @@
 # PPLorer
 PPLorer is an IDA plugin that resolves PPL calls to the actual underlying PPL function.
 ## Installation
-1. install [ida-nentode](https://github.com/williballenthin/ida-netnode) somewhere IDA can import it
+1. install [ida-netnode](https://github.com/williballenthin/ida-netnode) somewhere IDA can import it
 2. clone the repository and symlink `~/.idapro/plugins/pplorer.py` to `pplorer.py` in the cloned repo
 ## Usage
 
